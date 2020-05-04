@@ -1,1 +1,1 @@
-# memory-game-js
+Antra užduotis. Memory game su vanilla js.
